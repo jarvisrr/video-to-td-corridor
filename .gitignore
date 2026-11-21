@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+scan/
+*.ply
+*.npy
+*.mov
+*.mp4
+.DS_Store
